@@ -19,20 +19,20 @@
             <section>
                 <div class = "footcontent col-md-4"><!--middle content-->
                 <p> <br>
-                 Address: Near Bakrol Gate,
+                <h3>Address:</h3> Near Bakrol Gate,
                         Vvnagar,                  
                     <br>Anand, Gujarat</p>
                 </div>
             </section>
-            <section>
-                <div class = "footcontent col-md-4"><!--right content-->
+            <!-- <section>
+                <div class = "footcontent col-md-4">right content
                     Follow Us:<br>
                     <a href="#"><img src = "images/facebook.png"></a>
                     <a href="#"><img src = "images/instagram.png" width="65px"></a>
                         
                         <a href="#"><img src = "images/youtube.png"></a>
                 </div>
-            </section>
+            </section> -->
         </div>
     </div>
 </footer>
